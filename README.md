@@ -1,9 +1,9 @@
 # Hi 👋 I'm Kz-Himel
 
-🎓 Student
-💻 Learning JavaScript & Web Development
-🌱 Currently learning: React Js, React Router, Tailwind CSS, JS, Git, Problem Solving
-📍 From: Bangladesh
+🎓 Student  
+💻 Learning JavaScript & Web Development  
+🌱 Currently learning: React Js, React Router, Tailwind CSS, JS, Git, Problem Solving  
+📍 From: Bangladesh  
 
 ## 🚀 Skills
 
@@ -32,3 +32,4 @@
 I enjoy learning new tech and solving coding challenges.
 
 # Kz-Himel
+
