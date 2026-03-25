@@ -18,13 +18,26 @@
 ---
 
 ### 🛠️ Tech Stack:
-![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
+![DaisyUI](https://img.shields.io/badge/daisyui-purple?style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase)
+
+![REST API](https://img.shields.io/badge/REST%20API-Integration-orange?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS-Development-blueviolet?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 
 ---
 
