@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://imgur.com/4dVLVut" alt="banner" />
+  <img src="https://imgur.com/a/RrvCjEh" alt="banner" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Khayruzzaman+Himel;Frontend+Developer;React+%7C+Next.js+Developer;I+Love+Building+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Khayruzzaman+Himel🚀" />
 </p>
 
 <h3 align="center">Frontend Developer | React & Next.js 🚀</h3>
@@ -14,7 +14,7 @@
 
 ### 📍 Location & Contact
 - 📍 Bangladesh  
-- 📧 your-email@gmail.com
+- 📧 kzhimel129@gmail.com
 - 📱 +88 01341288101
 
 ---
@@ -43,7 +43,13 @@
 ---
 
 ### 🛠️ Tech Stack:  
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs) ![Tailwind CSS]  (https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss) ![DaisyUI](https://img.shields.io/badge/daisyui-purple?style=for-the-badge) ![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase) ![REST API](https://img.shields.io/badge/REST%20API-Integration-orange?style=for-the-badge) ![SaaS](https://img.shields.io/badge/SaaS-Development-blueviolet?style=for-the-badge)   ![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF2?style=for-the-badge&logo=daisyui&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge) ![SaaS](https://img.shields.io/badge/SaaS-8B5CF6?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
