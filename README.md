@@ -69,48 +69,6 @@
   
 --- 
 
-### 🚀 Featured Projects
-
-#### 🧠 DigiTools Platform
-- 🔗 Live: https://digitools-platform-kzhimel.netlify.app/  
-- 🛠️ Tech: React, Tailwind  
-- ✨ Features:
-  - Dynamic UI
-  - API Data Fetch
-  - Responsive Design  
-
----
-
-#### 📘 Github Issue Tracker  
-- 🔗 Live:  https://kz-himel.github.io/Assignment_5/    
-- 🛠️ Tech: JavaScript, Tailwind, API    
-- ✨ Features:
-  - Dynamic UI
-  - API Data Fetch
-  - Responsive Design  
-
----
-
-#### 🇬🇧 English Janala
-- 🔗 Live: https://kz-himel.github.io/English-Janala/    
-- 🛠️ Tech: JavaScript, Tailwind, API  
-- ✨ Features:
-  - Learn English words
-  - API integration
-  - Clean UI  
-
----
-
-#### 💰 Payoo App
-- 🔗 Live: https://kz-himel.github.io/Payoo-app/    
-- 🛠️ Tech: React, Firebase  
-- ✨ Features:
-  - Payment system
-  - Authentication
-  - Dashboard  
-
----  
-
 ### 🐍 Contribution Snake
 
 [![Snake Game](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)](https://github.com/Kz-Himel/snake-game)
