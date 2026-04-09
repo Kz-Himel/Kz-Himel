@@ -56,11 +56,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kz-Himel&show_icons=true&count_private=true&theme=radical" alt="Khayruzzaman Himel's GitHub Stats" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kz-Himel&show_icons=true&count_private=true&theme=radical)](https://github.com/Kz-Himel)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&langs_count=8&theme=radical" alt="Khayruzzaman Himel's Top Languages" />
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&langs_count=8&theme=radical)](https://github.com/Kz-Himel)
 </p>
 
 ---
@@ -71,13 +71,7 @@
   <img src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical" />
 </p>
   
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kz-Himel/Kz-Himel/output/snake.svg" alt="Snake animation" />
-</p>  
+--- 
 
 ### 🚀 Featured Projects
 
@@ -119,7 +113,15 @@
   - Authentication
   - Dashboard  
 
----
+---  
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kz-Himel/Kz-Himel/output/snake.svg" alt="Snake animation" />
+</p>  
+
+---  
 
 <p align="center">
   🚀 Keep Learning & Keep Building!
