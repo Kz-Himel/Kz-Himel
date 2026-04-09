@@ -70,12 +70,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical" />
 </p>
-
----
-
-<p align="center">
-  🚀 Keep Learning & Keep Building!
-</p>  
   
 ---
 
@@ -127,3 +121,6 @@
 
 ---
 
+<p align="center">
+  🚀 Keep Learning & Keep Building!
+</p>  
