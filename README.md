@@ -56,14 +56,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kz-Himel&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kz-Himel&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -71,10 +65,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical" />
 </p>
   
 --- 
