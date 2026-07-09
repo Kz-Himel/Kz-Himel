@@ -20,9 +20,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m working on **Modern Web Applications**
-- 🌱 Learning **Next.js & Advanced React**
-- 💬 Ask me about **JavaScript, Tailwind, API Integration**
+- 🔭 I’m working on **Modern Web Applications & Problem Solving**
+- 🌱 Learning **Next.js & MERN Stack**
+- 💬 Ask me about **Problem Solving, JavaScript, API Integration**
 - ⚡ I love solving problems with code
 
 ---
