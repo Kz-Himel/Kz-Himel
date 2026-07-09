@@ -55,16 +55,26 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kz-Himel&show_icons=true&count_private=true&theme=radical)](https://github.com/Kz-Himel)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&langs_count=8&theme=radical)](https://github.com/Kz-Himel)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kz-Himel&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+</p>
 
 ---
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical" />
+  <img
+    src="https://streak-stats.demolab.com?user=Kz-Himel&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
   
 --- 
