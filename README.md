@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Khayruzzaman+Himel🚀" />
 </p>
 
-<h3 align="center">Junior MERN Developer | React & Next.js 🚀</h3>
+<h3 align="center">MERN Developer | React & Next.js 🚀</h3>
 
 ---
 
@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m working on **Modern Web Applications & Problem Solving**
 - 🌱 Learning **Next.js & MERN Stack**
-- 💬 Ask me about **Problem Solving, JavaScript, API Integration**
+- 💬 Ask me about **Problem Solving, JavaScript, AI Integration**
 - ⚡ I love solving problems with code
 
 ---
