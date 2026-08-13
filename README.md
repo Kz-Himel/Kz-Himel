@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/khayruzzaman-himel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://kzhimels-portfolio.netlify.app/">
+  <a href="https://kzhimel.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" />
   </a>
   <a href="https://github.com/Kz-Himel">
