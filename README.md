@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Khayruzzaman+Himel🚀" />
 </p>
 
-<h3 align="center">MERN Developer | React & Next.js 🚀</h3>
+<h3 align="center">MERN Developer | Typescript & Next.js 🚀</h3>
 
 ---
 
