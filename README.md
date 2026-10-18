@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m working on **Modern Full Stack Web Applications & Problem Solving**
+- 🔭 I’m working on **Modern Full Stack Web Applications & Automation**
 - 🌱 Learning **Next.js & MERN Stack**
 - 💬 Ask me about **Full stack Development, JavaScript, AI Integration**
 - ⚡ I enjoyed building projects that solved real world problems
