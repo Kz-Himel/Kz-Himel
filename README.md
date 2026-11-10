@@ -53,12 +53,19 @@
 
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kz-Himel&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kz-Himel&layout=compact&theme=radical" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kz-Himel&label=Profile%20Views&color=8957e5&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kz-Himel?label=Followers&style=flat&color=8957e5" alt="Followers" />
+</p>
+
 
 ---
 
