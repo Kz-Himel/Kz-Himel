@@ -54,17 +54,33 @@
 ---
 
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Statistics" />
-  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
-</p>
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kz-Himel&label=Profile%20Views&color=8957e5&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kz-Himel?label=Followers&style=flat&color=8957e5" alt="Followers" />
-</p>
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kz-Himel&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kz-Himel&theme=github_dark" height="165" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kz-Himel&theme=github_dark" height="165" alt="Most Commit Language" />
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Kz-Himel&theme=darkhub&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kz-Himel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
+
+</div>
 
 
 ---
