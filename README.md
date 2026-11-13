@@ -13,21 +13,21 @@
 ---
 
 ### 📍 Location & Contact
-- 📍 Dhaka, Bangladesh  
-- 📧 kzhimel129@gmail.com
-- 📱 +88 01341288101
+- Dhaka, Bangladesh  
+- kzhimel129@gmail.com
+- +88 01341288101
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m working on **Modern Full Stack Web Applications & Automation**
-- 🌱 Learning **Nestjs & Backend Engineering**
-- 💬 Ask me about **Full stack Development, JavaScript, AI Integration**
-- ⚡ I enjoyed building projects that solved real world problems
+### About Me
+- I’m working on **Modern Full Stack Web Applications & Automation**
+- Learning **Nestjs & Backend Engineering**
+- Ask me about **Full stack Development, JavaScript, AI Integration**
+- I enjoyed building projects that solved real world problems
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/khayruzzaman-himel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -55,7 +55,7 @@
 
 
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 </div>
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kz-Himel&theme=radical&hide_border=true" />
@@ -93,12 +93,12 @@
   
 --- 
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 [![Snake Game](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)](https://github.com/Kz-Himel/snake-game)
 
 ---  
 
 <p align="center">
-  🚀 Keep Learning & Keep Building!
+  Keep Learning & Keep Building!
 </p>  
