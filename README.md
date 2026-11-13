@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <h5 align="center">Khayruzzaman Himel </h5>
+  <h2 align="center">Khayruzzaman Himel </h2>
 </p>
 
 <h3 align="center">Full Stack Developer (MERN) | TypeScript & Nestjs </h3>
