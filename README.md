@@ -12,7 +12,7 @@
 
 ---
 
-### 📍 Location & Contact
+### Location & Contact
 - Dhaka, Bangladesh  
 - kzhimel129@gmail.com
 - +88 01341288101
