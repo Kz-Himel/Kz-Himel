@@ -74,14 +74,6 @@
 
 </div>
 
-## Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kz-Himel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
-
-</div>
-
 
 ---
 
